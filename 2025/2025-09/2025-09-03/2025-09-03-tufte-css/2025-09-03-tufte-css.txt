@@ -1,0 +1,11 @@
+Tufte CSS by Dave Liepmann
+
+From today's HackerNews: a Tufte CSS project by Dave Liepmann. Cool! https://edwardtufte.github.io/tufte-css/
+
+If you haven't looked at Professor Tufte's work, it is old-school information design. https://www.edwardtufte.com/books/
+
+One of ET's guiding principles is to present the viewer with your information and then get out of the way. His books reflect this philosophy in their layout. They are a pleasure to read.
+
+Mr. Liepmann's CSS reflects ET's book very nicely. The typography is great! The printed version actually prints! It's very well thought out!
+
+Well done, Mr. Liepmann! And thank you! https://www.daveliepmann.com/
